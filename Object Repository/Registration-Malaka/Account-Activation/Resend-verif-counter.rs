@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Resend-verif-counter</name>
+   <tag></tag>
+   <elementGuidId>241e8169-5d1e-4b82-9df0-7d98aead4fd9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/div[2]/div/div/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.flex-col.gap-2 > p.body-b1.text-le</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>7f1c4e72-75f6-4b91-8918-85b5578b7a40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>body-b1 text-le</value>
+      <webElementGuid>307f449d-e1aa-4d04-980a-467cbd6abd92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>account-activation__counter__resend-verification</value>
+      <webElementGuid>2a2db962-8746-413f-b20b-e0bbbe7629c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kirim ulang link verifikasi 00:33</value>
+      <webElementGuid>0778c782-5811-4e8f-a589-3c0d8229d924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative flex min-h-screen flex-col&quot;]/div[@class=&quot;mt-0 mb-8 grid min-h-screen w-full grid-cols-1 md:mt-[49px] md:grid-cols-2&quot;]/div[@class=&quot;bg-neutral-N0 z-10 col-span-1 grid content-start&quot;]/div[@class=&quot;flex h-full flex-col justify-center gap-4 md:-mt-6 md:ml-20&quot;]/div[@class=&quot;bg-neutral-N0 flex max-w-[540px] flex-col gap-6 rounded-3xl p-4 md:py-14 md:px-8&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/p[@class=&quot;body-b1 text-le&quot;]</value>
+      <webElementGuid>a837158b-afa3-44f2-b051-ebe3ded3c379</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/div[2]/div/div/div[2]/p</value>
+      <webElementGuid>775b509f-f74b-42d9-bffa-aec9f4959473</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aktivasi Akun'])[1]/following::p[3]</value>
+      <webElementGuid>0f38b871-61cf-44d0-a027-6b2252331200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='W'])[2]/following::p[3]</value>
+      <webElementGuid>a3c29f9e-091b-47e2-8904-5a238693fbaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim ulang link verifikasi'])[1]/preceding::p[1]</value>
+      <webElementGuid>f58c26c1-7607-4b5d-8726-c65cbb0a62a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kirim ulang link verifikasi']/parent::*</value>
+      <webElementGuid>bfb1adc2-f988-4683-b2cd-8bd3ceb491ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>6c3354e5-0c25-4065-a702-feb3d1d5c9af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Kirim ulang link verifikasi 00:33' or . = 'Kirim ulang link verifikasi 00:33')]</value>
+      <webElementGuid>9b4b797c-af94-4302-9b8e-3ea7adae33dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>05-Register with mismatched passwords</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>6d17f57a-abb4-4b2a-89d7-ef170e5dca48</testSuiteGuid>
+   <testCaseLink>
+      <guid>aa3f73b3-ba9b-41f1-99e7-adbf76c8823d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/REGISTRATION/05-Register with mismatched passwords</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>SCRIPT_VARIABLE</type>
+         <value>&quot;Test1&quot;</value>
+         <variableId>d4bc070c-c83d-4932-a21a-58006eded161</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>SCRIPT_VARIABLE</type>
+         <value>&quot;8123456789&quot;</value>
+         <variableId>451458fc-39ad-45ae-af2d-2a1515148396</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>SCRIPT_VARIABLE</type>
+         <value>&quot;Test Store 1&quot;</value>
+         <variableId>c40c93fc-5d5f-407f-84ef-729ba2e454e4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>SCRIPT_VARIABLE</type>
+         <value>&quot;distributor&quot;</value>
+         <variableId>06eea0fa-5ac0-407c-b335-456fccf38c7b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>SCRIPT_VARIABLE</type>
+         <value>&quot;Password123&quot;</value>
+         <variableId>9d2679b8-2091-46c7-a022-083a107278e7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>SCRIPT_VARIABLE</type>
+         <value>&quot;Password124&quot;</value>
+         <variableId>cda767b0-efd6-45c5-b1d6-1c3d7aca3098</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

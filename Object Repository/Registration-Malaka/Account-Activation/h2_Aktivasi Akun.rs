@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Aktivasi Akun</name>
+   <tag></tag>
+   <elementGuidId>532e03ba-8411-4747-be7f-441a888e83f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/div[2]/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.title-large.text-he</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>6a47e3dd-59fb-4946-9a73-eebbd1f66995</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title-large text-he</value>
+      <webElementGuid>ecade93a-1180-4f10-8607-c10ece763983</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>account-activation__title</value>
+      <webElementGuid>18a7164e-63a2-4f8c-aa39-f0ae385a4384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aktivasi Akun</value>
+      <webElementGuid>dc562220-dda9-4950-b33c-3bb7a558db93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative flex min-h-screen flex-col&quot;]/div[@class=&quot;mt-0 mb-8 grid min-h-screen w-full grid-cols-1 md:mt-[49px] md:grid-cols-2&quot;]/div[@class=&quot;bg-neutral-N0 z-10 col-span-1 grid content-start&quot;]/div[@class=&quot;flex h-full flex-col justify-center gap-4 md:-mt-6 md:ml-20&quot;]/div[@class=&quot;bg-neutral-N0 flex max-w-[540px] flex-col gap-6 rounded-3xl p-4 md:py-14 md:px-8&quot;]/h2[@class=&quot;title-large text-he&quot;]</value>
+      <webElementGuid>3f93f58b-a99e-49e0-8853-59b932f17dc7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/div[2]/div/div/h2</value>
+      <webElementGuid>8091427a-64a9-44b8-bb31-5fa2e54bb83d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='W'])[2]/following::h2[1]</value>
+      <webElementGuid>0e23f7e3-1f37-4fbd-8971-acb830255e03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='W'])[1]/following::h2[1]</value>
+      <webElementGuid>4f22a225-d770-458b-aa4f-90365615ef6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim ulang link verifikasi'])[1]/preceding::h2[1]</value>
+      <webElementGuid>a6ef5706-39bf-4d98-b677-fb2caf79b94e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Aktivasi Akun']/parent::*</value>
+      <webElementGuid>99115e67-0906-4b0c-aee9-c94ae29fa423</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>678c467b-dbf4-48d2-b404-372d54f23f1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Aktivasi Akun' or . = 'Aktivasi Akun')]</value>
+      <webElementGuid>a8a07931-c14a-40b5-875f-d7d9d2c47c33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

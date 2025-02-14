@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Activation-content</name>
+   <tag></tag>
+   <elementGuidId>c5a991b3-b6ba-4561-8ea1-c826938b36f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/div[2]/div/div/div/div/div/div[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>2655ac41-5ec3-43f1-93a8-c6afba3138db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[0.875rem] font-normal leading-[1.25rem] tracking-[0.25px] text-he</value>
+      <webElementGuid>634ab299-6954-4612-989a-ea6550d7855a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>account-activation__content</value>
+      <webElementGuid>41150a52-e766-45a8-aa08-895a201f7dc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Link verifikasi telah dikirimkan ke qwert@tyui.com</value>
+      <webElementGuid>7c9f7c93-4a22-4850-9d80-7f338d8509bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative flex min-h-screen flex-col&quot;]/div[@class=&quot;mt-0 mb-8 grid min-h-screen w-full grid-cols-1 md:mt-[49px] md:grid-cols-2&quot;]/div[@class=&quot;bg-neutral-N0 z-10 col-span-1 grid content-start&quot;]/div[@class=&quot;flex h-full flex-col justify-center gap-4 md:-mt-6 md:ml-20&quot;]/div[@class=&quot;bg-neutral-N0 flex max-w-[540px] flex-col gap-6 rounded-3xl p-4 md:py-14 md:px-8&quot;]/div[@class=&quot;flex gap-4 rounded-lg p-3 bg-blue-B200&quot;]/div[@class=&quot;flex w-full gap-4&quot;]/div[@class=&quot;flex w-full gap-2&quot;]/div[@class=&quot;flex w-full flex-col items-center gap-2 md:flex-row md:gap-4&quot;]/div[@class=&quot;flex w-full flex-col gap-1&quot;]/p[@class=&quot;text-[0.875rem] font-normal leading-[1.25rem] tracking-[0.25px] text-he&quot;]</value>
+      <webElementGuid>898de93f-cf4f-4cc0-ad51-3f3d7b51d91f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/div[2]/div/div/div/div/div/div[2]/div/p</value>
+      <webElementGuid>a6363e3d-5448-4e61-88f8-974be3d734a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aktivasi Akun'])[1]/following::p[1]</value>
+      <webElementGuid>8d0d35fc-df32-4946-a024-75b4729090d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='W'])[2]/following::p[1]</value>
+      <webElementGuid>a5f5eb07-9d94-410f-8063-8235457e2d77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim ulang link verifikasi'])[1]/preceding::p[3]</value>
+      <webElementGuid>be3a6a66-c92b-495c-8b09-75c8a2b3addf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Link verifikasi telah dikirimkan ke qwert@tyui.com']/parent::*</value>
+      <webElementGuid>26883e7a-a625-484b-bcc2-697b6f283878</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>f7801f57-095c-42da-a706-6055dd1921ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Link verifikasi telah dikirimkan ke qwert@tyui.com' or . = 'Link verifikasi telah dikirimkan ke qwert@tyui.com')]</value>
+      <webElementGuid>4f86b082-b7b8-492d-ae72-78eb07615253</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

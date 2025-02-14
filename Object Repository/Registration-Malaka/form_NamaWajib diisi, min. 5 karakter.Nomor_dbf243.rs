@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_NamaWajib diisi, min. 5 karakter.Nomor_dbf243</name>
+   <tag></tag>
+   <elementGuidId>74d5da46-9c23-4651-95b3-a4cf3638cbd6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div/form</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>form.flex.flex-col.gap-6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>cf964fab-b313-4b79-9d14-77015b89b7df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col gap-6</value>
+      <webElementGuid>d4180e50-7d41-4d98-a2cb-75f9a7378a48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NamaWajib diisi, min. 5 karakter.Nomor TeleponWajib diisi. Nomor telepon tidak boleh kurang dari 10 atau lebih dari 12 karakter.+62Nama Bisnis KamuWajib diisi.Tipe BisnisDistributorToko RetailBrandPenjual OnlineKebutuhan aplikasi dan performa sales, kelola inventori gudangEmailWajib diisi.IconKata SandiMin. 8 karakter, harus kombinasi dari huruf dan angka.IconKonfirmasi Kata SandiBaca dan setuju dengan syarat dan ketentuanDengan melanjutkan pendaftaran, kamu setuju dengan Ketentuan Penggunaan, Kode Etik Penjual, Kebijakan Privasi, Ketentuan Pembatalan dan Pengembalian Melaka.Daftar</value>
+      <webElementGuid>f3e09200-467c-4f53-b05c-b1bd96e53084</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative flex min-h-screen flex-col&quot;]/div[@class=&quot;mt-0 mb-8 grid min-h-screen w-full grid-cols-1 md:mt-[49px] md:grid-cols-2&quot;]/div[@class=&quot;bg-neutral-N0 z-10 col-span-1 grid content-start p-5 pt-6 md:-mt-6 md:-ml-8 md:p-8 md:pl-0 place-items-start justify-center&quot;]/div[@class=&quot;flex h-full flex-col justify-center gap-4 md:max-w-[476px]&quot;]/form[@class=&quot;flex flex-col gap-6&quot;]</value>
+      <webElementGuid>54c85c06-f2d1-497d-acfc-032e8f28eb53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div/form</value>
+      <webElementGuid>df76f937-c165-4ba7-b59d-51a31c504b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edukasi'])[1]/following::form[1]</value>
+      <webElementGuid>05cb6cda-bc7f-4d7d-8f18-787fd6c43b65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form</value>
+      <webElementGuid>99468cb8-0708-4e04-98c4-ef321469acc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[(text() = 'NamaWajib diisi, min. 5 karakter.Nomor TeleponWajib diisi. Nomor telepon tidak boleh kurang dari 10 atau lebih dari 12 karakter.+62Nama Bisnis KamuWajib diisi.Tipe BisnisDistributorToko RetailBrandPenjual OnlineKebutuhan aplikasi dan performa sales, kelola inventori gudangEmailWajib diisi.IconKata SandiMin. 8 karakter, harus kombinasi dari huruf dan angka.IconKonfirmasi Kata SandiBaca dan setuju dengan syarat dan ketentuanDengan melanjutkan pendaftaran, kamu setuju dengan Ketentuan Penggunaan, Kode Etik Penjual, Kebijakan Privasi, Ketentuan Pembatalan dan Pengembalian Melaka.Daftar' or . = 'NamaWajib diisi, min. 5 karakter.Nomor TeleponWajib diisi. Nomor telepon tidak boleh kurang dari 10 atau lebih dari 12 karakter.+62Nama Bisnis KamuWajib diisi.Tipe BisnisDistributorToko RetailBrandPenjual OnlineKebutuhan aplikasi dan performa sales, kelola inventori gudangEmailWajib diisi.IconKata SandiMin. 8 karakter, harus kombinasi dari huruf dan angka.IconKonfirmasi Kata SandiBaca dan setuju dengan syarat dan ketentuanDengan melanjutkan pendaftaran, kamu setuju dengan Ketentuan Penggunaan, Kode Etik Penjual, Kebijakan Privasi, Ketentuan Pembatalan dan Pengembalian Melaka.Daftar')]</value>
+      <webElementGuid>ea201126-2cfd-4d47-bb71-9edeea05bea9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

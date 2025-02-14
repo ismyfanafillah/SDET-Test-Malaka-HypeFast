@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>08-Register with already registered email</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>3780d7c6-63cf-4073-8000-a0433094dcfd</testSuiteGuid>
+   <testCaseLink>
+      <guid>aa3f73b3-ba9b-41f1-99e7-adbf76c8823d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/REGISTRATION/08-Register with already registered email</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>SCRIPT_VARIABLE</type>
+         <value>&quot;Test1&quot;</value>
+         <variableId>49e34819-bcf6-431a-848e-3f3dd4187078</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>SCRIPT_VARIABLE</type>
+         <value>&quot;8123456789&quot;</value>
+         <variableId>c4a9d9d1-2d20-43a1-9228-29a9c7fad1fb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>SCRIPT_VARIABLE</type>
+         <value>&quot;Test Store 1&quot;</value>
+         <variableId>703b031a-8404-48eb-9853-bbc2fa00b8f9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>SCRIPT_VARIABLE</type>
+         <value>&quot;distributor&quot;</value>
+         <variableId>7ed1363d-bb07-4ea5-a913-f1a8e469b600</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>SCRIPT_VARIABLE</type>
+         <value>&quot;test1@gmail.com&quot;</value>
+         <variableId>9e90d43c-7280-4788-a97d-dcdfa9dc77d7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>SCRIPT_VARIABLE</type>
+         <value>&quot;Password123&quot;</value>
+         <variableId>fd00fb77-7c0d-4c3c-a39d-44111b0e3105</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>SCRIPT_VARIABLE</type>
+         <value>&quot;Password123&quot;</value>
+         <variableId>56a6ac78-9c9f-4a99-bba2-aac1539aeb37</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
